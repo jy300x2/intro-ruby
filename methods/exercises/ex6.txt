@@ -1,0 +1,1 @@
+In exercise 6, the method is missing an argument as it needs two. 
