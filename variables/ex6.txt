@@ -1,0 +1,1 @@
+In exercise 6, a variable or method is likely being outside of scope
