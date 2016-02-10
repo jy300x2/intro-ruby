@@ -1,0 +1,1 @@
+In exercise 7 the error message was probably caused by a ')' being used to close a hash instead of a '}'
