@@ -1,1 +1,1 @@
-puts "Jon" + " Yu"
+"Jon" + " Yu"
